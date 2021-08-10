@@ -1,0 +1,10 @@
+#titulo{
+    color:cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#contenedor_titulo{ 
+    border:black 2px solid;
+    text-align: center;
+    background-color: rgb(62, 80, 34);
+}
